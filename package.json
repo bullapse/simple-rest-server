@@ -1,0 +1,24 @@
+{
+  "name": "simple-rest-server",
+  "version": "1.0.0",
+  "description": "Simple web server using express.js",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bullapse/simple-rest-server.git"
+  },
+  "author": "Spencer Bull",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/bullapse/simple-rest-server/issues"
+  },
+  "homepage": "https://github.com/bullapse/simple-rest-server#readme"
+}
